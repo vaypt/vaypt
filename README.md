@@ -9,4 +9,4 @@
 - APIs ( AI & Fun, Now Discontinued )
 
 # 📜 | JavaScript Projects
-- Discord Bots ( [Astral](https://github.com/vaypt/Astral))
+- Discord Bots ( [Astral](https://github.com/vaypt/Astral) )
